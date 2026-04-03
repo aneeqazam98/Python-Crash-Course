@@ -444,7 +444,7 @@ Next year age: 21
 
 ---
 
-# 📘 Final Concepts Covered
+# 📘 Concepts Covered
 
 * print() function
 * Variables and assignment
