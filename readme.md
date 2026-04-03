@@ -26,19 +26,9 @@ The repository follows a **class-based modular structure**:
 Python-Crash-Course/
 │
 ├── Class-1/
-│   ├── README.md        → Complete notes and explanations
+│   ├── class-1-notes.md        → Complete notes and explanations
 │   ├── practice.ipynb   → Interactive practice notebook
 │   ├── practice.py      → Python practice file
-│
-├── Class-2/
-│   ├── README.md
-│   ├── practice.ipynb
-│   ├── practice.py
-│
-├── Class-3/
-│   ├── README.md
-│   ├── practice.ipynb
-│   ├── practice.py
 │
 └── README.md            → Overview of full course (this file)
 ```
