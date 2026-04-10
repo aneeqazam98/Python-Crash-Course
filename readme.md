@@ -28,7 +28,14 @@ Python-Crash-Course/
 ├── Class-1/
 │   ├── class-1-notes.md        → Complete notes and explanations
 │   ├── practice.ipynb   → Interactive practice notebook
-│   ├── practice.py      → Python practice file
+│
+├── Class-2/
+│   ├── class-2-notes.md        → Complete notes and explanations
+│   ├── practice-2.ipynb   → Interactive practice notebook
+│
+├── Class-3/
+│   ├── class-3-notes.md        → Complete notes and explanations
+│   ├── practice-3.ipynb   → Interactive practice notebook
 │
 └── README.md            → Overview of full course (this file)
 ```
