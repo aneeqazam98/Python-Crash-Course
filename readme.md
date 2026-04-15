@@ -27,17 +27,25 @@ Python-Crash-Course/
 │
 ├── Class-1/
 │   ├── class-1-notes.md        → Complete notes and explanations
-│   ├── practice-1.ipynb   → Interactive practice notebook
+│   ├── class-1-recording.py    → Lecture recording
+│   ├── practice-1.ipynb        → Interactive practice notebook
 │
 ├── Class-2/
 │   ├── class-2-notes.md        → Complete notes and explanations
-│   ├── practice-2.ipynb   → Interactive practice notebook
+│   ├── class-2-recording.py    → Lecture recording
+│   ├── practice-2.ipynb        → Interactive practice notebook
 │
 ├── Class-3/
 │   ├── class-3-notes.md        → Complete notes and explanations
-│   ├── practice-3.ipynb   → Interactive practice notebook
+│   ├── class-3-recording.py    → Lecture recording
+│   ├── practice-3.ipynb        → Interactive practice notebook
+|
+├── Class-4/
+│   ├── class-4-notes.md        → Complete notes and explanations
+│   ├── class-4-recording.py    → Lecture recording
+│   ├── practice-4.ipynb        → Interactive practice notebook
 │
-└── README.md            → Overview of full course (this file)
+└── README.md            → Overview of full course 
 ```
 
 ---
