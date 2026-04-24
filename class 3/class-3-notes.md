@@ -508,17 +508,6 @@ The in keyword scans the list and checks if a value exists.
 
 ---
 
-## 🚀 Next Step
-
-Next class → you’ll start combining:
-
-* Lists + Loops
-* Logic + Automation
-
-That’s where real power begins.
-
----
-
 ## Note
 
 This class is a turning point.

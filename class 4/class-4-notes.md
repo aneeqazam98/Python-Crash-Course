@@ -505,18 +505,6 @@ Sometimes you only care about one condition
 
 ---
 
-# 🚀 Next Step
-
-Next class → you’ll move into:
-
-* While loops
-* Nested loops
-* More complex problem solving
-
-👉 This is where automation becomes powerful.
-
----
-
 # Note
 
 This class is where you shift from **writing code → automating code**.
