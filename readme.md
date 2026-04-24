@@ -85,46 +85,13 @@ This approach helps in:
 
 ---
 
-## 📘 README.md (Inside Each Class)
-
-Each class folder contains a `README.md` file which includes:
-
-* Theoretical explanations of concepts
-* Code examples
-* Expected outputs
-* Beginner-friendly breakdowns
-
-👉 This is your **main study material**
-
----
-
-## 🧪 practice.ipynb (Jupyter Notebook)
-
-* Used for interactive learning
-* Combines code + explanation
-* Helps in testing concepts step-by-step
-
-👉 Best for experimentation and learning visually
-
----
-
-## 💻 practice.py (Python File)
-
-* Pure code practice file
-* Used for running programs in terminal or VS Code
-* Helps build real coding habit
-
-👉 Best for execution and real-world practice
-
----
-
 # ⚙ Why This Structure Matters
 
 Most beginners make the mistake of mixing everything in one file. This repository avoids that problem by using a **separation of concerns approach**:
 
 * Notes → README.md
-* Practice → .py file
-* Interactive learning → .ipynb
+* Recording → .py file
+* Practice → .ipynb
 
 This structure is similar to how professional developers organize real projects.
 
@@ -138,7 +105,7 @@ Open a class folder (e.g. Class-1)
 
 ### Step 2
 
-Start reading `README.md` for theory
+Start reading `class-1-notes.md` for theory
 
 ### Step 3
 
