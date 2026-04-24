@@ -25,6 +25,11 @@ The repository follows a **class-based modular structure**:
 ```
 Python-Crash-Course/
 │
+├── Assignments 
+|   ├── assignment-1.ipynb
+|   ├── assignment-2.ipynb
+|   ├── assignment-3.ipynb
+|
 ├── Class-1/
 │   ├── class-1-notes.md        → Complete notes and explanations
 │   ├── class-1-recording.py    → Lecture recording
@@ -44,6 +49,22 @@ Python-Crash-Course/
 │   ├── class-4-notes.md        → Complete notes and explanations
 │   ├── class-4-recording.py    → Lecture recording
 │   ├── practice-4.ipynb        → Interactive practice notebook
+|
+├── Class-5/
+│   ├── class-5-notes.md        → Complete notes and explanations
+│   ├── class-5-recording.py    → Lecture recording
+│   ├── practice-5.ipynb        → Interactive practice notebook
+|
+├── Class-6/
+│   ├── class-6-notes.md        → Complete notes and explanations
+│   ├── class-6-recording.py    → Lecture recording
+│   ├── practice-6.ipynb        → Interactive practice notebook
+|
+├── Class-7/
+│   ├── class-7-notes.md        → Complete notes and explanations
+│   ├── class-7-recording.py    → Lecture recording
+│   ├── practice-7.ipynb        → Interactive practice notebook
+│
 │
 └── README.md            → Overview of full course 
 ```
